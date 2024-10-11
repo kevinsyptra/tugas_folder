@@ -1,0 +1,9 @@
+c:\users\acer\documents\visual studio 2010\Projects\menampilkan_folder\menampilkan_folder\bin\Debug\menampilkan_folder.exe
+c:\users\acer\documents\visual studio 2010\Projects\menampilkan_folder\menampilkan_folder\bin\Debug\menampilkan_folder.pdb
+c:\users\acer\documents\visual studio 2010\Projects\menampilkan_folder\menampilkan_folder\bin\Debug\menampilkan_folder.xml
+c:\users\acer\documents\visual studio 2010\Projects\menampilkan_folder\menampilkan_folder\obj\x86\Debug\menampilkan_folder.Form1.resources
+c:\users\acer\documents\visual studio 2010\Projects\menampilkan_folder\menampilkan_folder\obj\x86\Debug\menampilkan_folder.Resources.resources
+c:\users\acer\documents\visual studio 2010\Projects\menampilkan_folder\menampilkan_folder\obj\x86\Debug\menampilkan_folder.vbproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2010\Projects\menampilkan_folder\menampilkan_folder\obj\x86\Debug\menampilkan_folder.exe
+c:\users\acer\documents\visual studio 2010\Projects\menampilkan_folder\menampilkan_folder\obj\x86\Debug\menampilkan_folder.xml
+c:\users\acer\documents\visual studio 2010\Projects\menampilkan_folder\menampilkan_folder\obj\x86\Debug\menampilkan_folder.pdb
